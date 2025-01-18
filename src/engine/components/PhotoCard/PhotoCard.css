@@ -1,0 +1,46 @@
+.PhotoCard {
+  position: relative;
+  overflow: hidden;
+}
+
+.PhotoCard__content {
+  position: initial;
+}
+
+.PhotoCard__content--hovered-opacity {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.PhotoCard__content--active-opacity {
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+.PhotoCard__image {
+  display: block;
+  height: 100%;
+}
+
+.PhotoCard__icon {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  z-index: 2;
+  padding: 8px;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  background: var(--vkui--color_overlay_primary);
+}
+
+.PhotoCard__icon--hovered-opacity {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.PhotoCard__icon--active-opacity {
+  cursor: pointer;
+  opacity: 0.7;
+}

@@ -1,3 +1,32 @@
+# Комментарий от разработчика
+
+Привет! Это выполненное профильное задание для стажировки на роль "[Frontend-разработчик мини-приложений](https://internship.vk.company/vacancy/1057)"
+
+## Демо
+[Ссылка](https://prod-app52936580-a2a6271475a9.pages-ac.vk-apps.com/index.html)
+
+Если не будут отображаться фотографии, используйте VPN.
+
+## Скриншоты
+
+### Все котики
+![search-desktop](./screenshots/search-desktop.png)
+![search-mobile](./screenshots/search-mobile.png)
+
+### Любимые котики
+![favorites-desktop](./screenshots/favorites-desktop.png)
+![favorites-mobile](./screenshots/favorites-mobile.png)
+
+### Страница неудачного обращения к API
+![favorites-desktop](./screenshots/error-fetch-mobile.png)
+
+## Какие библиотеки используются
+1. [react js](https://react.dev/)
+2. [vkui](https://dev.vk.com/ru/libraries/vkui)
+3. [icons](https://github.com/VKCOM/icons)
+4. [vk-mini-apps-router](https://dev.vk.com/ru/libraries/router)
+5. [vk-mini-apps-deploy](https://github.com/VKCOM/vk-miniapps-deploy)
+
 # Задание для Front-end стажёра
 
 Привет! Если ты хочешь стать частью команды Учи.ру в рамках стажёрской программы, 
